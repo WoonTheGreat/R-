@@ -1,2 +1,2 @@
 # Scraping
-Web scrapping using R
+Web scrapping using R (rvest)
